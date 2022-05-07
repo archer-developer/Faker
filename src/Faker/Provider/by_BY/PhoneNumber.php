@@ -5,7 +5,7 @@ namespace Faker\Provider\by_BY;
 class PhoneNumber extends \Faker\Provider\PhoneNumber
 {
     /**
-     * @see list of Belarussian mobile formats, source: https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D1%8B_%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BD%D1%83%D0%BC%D0%B0%D1%80%D0%B0%D1%86%D1%8B%D1%96_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96
+     * @see list of Belarusian mobile formats, source: https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D1%8B_%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BD%D1%83%D0%BC%D0%B0%D1%80%D0%B0%D1%86%D1%8B%D1%96_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96
      */
     protected static $formats = [
 
